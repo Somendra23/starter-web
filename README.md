@@ -14,3 +14,11 @@ Sample website with plenty of files for demos
 ## Bootstrap skin
 
 ##Lets do one more time this chnage
+
+## Java 9 features 
+
+##Linus Trevolds - ubuntu dist
+
+##Les check this out
+
+## edit tis to keep in local dev directory
