@@ -26,3 +26,5 @@ Sample website with plenty of files for demos
 ## adding coment in add-copyright branch
 
 ## BINGO HERE ON ADD-COPYRIGT BRANCH
+
+##Change in master and see the effect on merge
