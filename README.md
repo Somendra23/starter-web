@@ -24,3 +24,5 @@ Sample website with plenty of files for demos
 ## edit tis to keep in local dev directory
 
 ## adding coment in add-copyright branch
+
+## FINALLY EDME NOTICE
