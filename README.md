@@ -25,4 +25,4 @@ Sample website with plenty of files for demos
 
 ## adding coment in add-copyright branch
 
-## FINALLY EDME NOTICE
+## BINGO HERE ON ADD-COPYRIGT BRANCH
