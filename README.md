@@ -32,3 +32,4 @@ Sample website with plenty of files for demos
 ## BINGO HERE ON ADD-COPYRIGT BRANCH
 
 ##Change in master and see the effect on merge
+## Stashing sample modify
