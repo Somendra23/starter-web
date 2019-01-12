@@ -33,3 +33,5 @@ Sample website with plenty of files for demos
 
 ##Change in master and see the effect on merge
 ## Stashing sample modify
+
+##Quick fix on README file after stashing ##
