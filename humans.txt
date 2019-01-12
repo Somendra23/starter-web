@@ -17,4 +17,4 @@
 	
 	## Stashed untracked and modifed files now edit another file
 	
-	
+	## sash for branches sample
