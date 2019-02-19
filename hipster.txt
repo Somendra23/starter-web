@@ -1,3 +1,0 @@
-Microservice spring boot and hipster
-kafka
-pyhton
