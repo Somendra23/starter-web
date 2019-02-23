@@ -35,3 +35,5 @@ Sample website with plenty of files for demos
 ## Stashing sample modify
 
 ##Quick fix on README file after stashing ##
+
+#adding copyright notice 02/22/2019
