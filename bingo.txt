@@ -4,3 +4,5 @@ mking another express change
 ok keep this in working directory
 
 Update this with Egit plugin..
+
+Add from brackets
